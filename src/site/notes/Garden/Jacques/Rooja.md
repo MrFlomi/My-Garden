@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/garden/jacques/rooja/","tags":["npc,friend,wuhan,loxodon,fighter,champion,Jack,Baghtru"]}
 ---
-{ #statblock}
+
 
  ![[Loxodon-5e-Guide-950x650-1.webp|300]] 
 # Description
