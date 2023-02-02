@@ -3,7 +3,7 @@
 ---
 { #statblock}
 
-> ![[Loxodon-5e-Guide-950x650-1.webp|30]] 
+ ![[Loxodon-5e-Guide-950x650-1.webp|300]] 
 # Description
 
 #### Appearance:
